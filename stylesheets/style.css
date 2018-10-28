@@ -1,0 +1,21 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.map {
+	float: left;
+	overflow: auto;
+	display: inline-block;
+}
+
+.player {
+
+	height: 100vh;
+	position: fixed;
+	left: 0vw;
+	top: 0vh;
+}
