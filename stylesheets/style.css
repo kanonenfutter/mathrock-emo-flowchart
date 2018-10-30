@@ -11,7 +11,9 @@ a {
 	overflow: auto;
 	display: inline-block;
 }
-
+.imgmap {
+	margin-right: 300px;
+}
 .player {
 
 	height: 100vh;
